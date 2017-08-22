@@ -12,7 +12,7 @@
         }, 
         {
             "location": "/installation/", 
-            "text": "Tool requires few python libraries, and python 2.7 on your box. Dont worry about libraries, we have got it sorted. \n\n\nYou can either download the tool from github as a zip file or use the following command to clone it into your box. \n\n\ngit clone https://github.com/SecurityFTW/cs-suite.git\ncd cs-suite/\nsudo python setup.py\n\n\n\n\nNote - Generate a set of ReadOnly AWS keys which the tool will ask to finish the installation.\n\n\nHere is a quick video on how you can install the same:", 
+            "text": "Tool requires few python libraries, and python 2.7 on your box. Dont worry about libraries, we have got it sorted. \n\n\nYou can either download the tool from github as a zip file or use the following command to clone it into your box. \n\n\ngit clone https://github.com/SecurityFTW/cs-suite.git\ncd cs-suite/\nsudo python setup.py\n\n\n\n\nNote - Generate a set of ReadOnly AWS keys which the tool will ask to finish the installation process.\n\n\nHere is a quick video on how you can install the same:", 
             "title": "Installation"
         }, 
         {
