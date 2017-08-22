@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to CS-Suite Documentation\n\n\nCloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.", 
+            "text": "Welcome to CS-Suite Documentation\n\n\nCS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does system audits as well. CS Suite leverages current open source tools capabilities and has other missing checks added into one tool to rule them all.\n\n\nThe major features include:\n- Simple installation with support of python virtual environment and docker containers\n- Initiate all tools/audit checks in one go\n- AWS Infra Audit:\n    - Easify your \u201copen source setup\u201d pain.\n    - Compilation of all audit checks in one place\n    - Centralized portable reports\n    - Audits individual systems\n\n\n\n\nAWS Instance Audit\n\n\nIP based auditing\n\n\nRegion independent Audit (Public IP)\n\n\nSupports both public and private IPs for Default region\n\n\nAutomatic Report Generation and Fetching\n\n\nPortable HTML report", 
             "title": "Overview"
         }, 
         {
             "location": "/#welcome-to-cs-suite-documentation", 
-            "text": "Cloud Security Suite - One stop tool for auditing the security posture of AWS infrastructure.", 
+            "text": "CS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does system audits as well. CS Suite leverages current open source tools capabilities and has other missing checks added into one tool to rule them all.  The major features include:\n- Simple installation with support of python virtual environment and docker containers\n- Initiate all tools/audit checks in one go\n- AWS Infra Audit:\n    - Easify your \u201copen source setup\u201d pain.\n    - Compilation of all audit checks in one place\n    - Centralized portable reports\n    - Audits individual systems   AWS Instance Audit  IP based auditing  Region independent Audit (Public IP)  Supports both public and private IPs for Default region  Automatic Report Generation and Fetching  Portable HTML report", 
             "title": "Welcome to CS-Suite Documentation"
         }, 
         {
