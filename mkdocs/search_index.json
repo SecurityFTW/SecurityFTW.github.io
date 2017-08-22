@@ -31,9 +31,9 @@
             "title": "Usage"
         }, 
         {
-            "location": "/authors/", 
-            "text": "authors.md", 
-            "title": "Authors"
+            "location": "/credits/", 
+            "text": "We would like to give thanks to below tools and their authors to do the awesome work. Without you guys, it would have took us longer to craft this utility. \n\n\nScout2 - \nhttps://github.com/nccgroup/Scout2\n\nProwler - \nhttps://github.com/Alfresco/prowler\n\nLynis - \nhttps://github.com/CISOfy/lynis\n\n@alanrenouf - \nhttps://github.com/alanrenouf/Windows-Workstation-and-Server-Audit\n\n\nTeam:\n1. Jayesh Singh Chuahan\n2. \n\n\nTesters:\n1. \n\n\nMentors:", 
+            "title": "Credits"
         }
     ]
 }
