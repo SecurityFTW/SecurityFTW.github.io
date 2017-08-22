@@ -3,7 +3,31 @@
 
     
     <url>
-     <loc>https://github.com/SecurityFTW/Docs/</loc>
+     <loc>https://github.com/SecurityFTW/cs-suite/</loc>
+     <lastmod>2017-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://github.com/SecurityFTW/cs-suite/authors/</loc>
+     <lastmod>2017-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://github.com/SecurityFTW/cs-suite/installation/</loc>
+     <lastmod>2017-08-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://github.com/SecurityFTW/cs-suite/usage/</loc>
      <lastmod>2017-08-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
