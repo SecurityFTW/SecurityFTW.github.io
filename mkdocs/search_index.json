@@ -17,7 +17,7 @@
         }, 
         {
             "location": "/usage/", 
-            "text": "python cs.py\n\n\n\n\nThis is how you can audit a linux instance:\n\n\n\nThis is how you can audit a windows instance:", 
+            "text": "python cs.py\n\n\n\n\nInstallation and running CS Suite:\n\n\n\nThis is how you can audit a linux instance:\n\n\n\nThis is how you can audit a windows instance:", 
             "title": "Usage"
         }, 
         {
