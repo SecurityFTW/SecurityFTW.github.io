@@ -22,7 +22,7 @@
         }, 
         {
             "location": "/credits/", 
-            "text": "We would like to give thanks to below tools and their authors to do the awesome work. Without you guys, it would have took us longer to craft this utility. \n\n\nScout2 - \nhttps://github.com/nccgroup/Scout2\n\nProwler - \nhttps://github.com/Alfresco/prowler\n\nLynis - \nhttps://github.com/CISOfy/lynis\n\nAlanrenouf - \nhttps://github.com/alanrenouf/Windows-Workstation-and-Server-Audit\n\n\nTeam:\n\n1. Jayesh Singh Chuahan\n\n2. \n\n\nTesters:\n\n1. \n\n\nMentors:", 
+            "text": "We would like to give thanks to below tools and their authors to do the awesome work. Without you guys, it would have took us longer to craft this utility. \n\n\nScout2 - \nhttps://github.com/nccgroup/Scout2\n\nProwler - \nhttps://github.com/Alfresco/prowler\n\nLynis - \nhttps://github.com/CISOfy/lynis\n\nAlanrenouf - \nhttps://github.com/alanrenouf/Windows-Workstation-and-Server-Audit\n\n\nTeam:\n\n1. Jayesh Singh Chuahan\n\n2. Shivankar\n\n\nTesters:\n\n1. \n\n\nMentors:", 
             "title": "Credits"
         }
     ]
