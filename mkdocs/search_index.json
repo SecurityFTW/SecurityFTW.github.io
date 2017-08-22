@@ -3,7 +3,7 @@
         {
             "location": "/", 
             "text": "Welcome to CS-Suite Documentation\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Home"
+            "title": "Overview"
         }, 
         {
             "location": "/#welcome-to-cs-suite-documentation", 
@@ -21,11 +21,6 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/authors/", 
-            "text": "authors.md", 
-            "title": "Authors"
-        }, 
-        {
             "location": "/installation/", 
             "text": "Tool requires few python libraries, and python 2.7 on your box. Dont worry about libraries, we have got it sorted. \n\n\nYou can either download the tool from github as a zip file or use the following command to clone it into your box. \n\n\n'''\ngit clone https://github.com/SecurityFTW/cs-suite.git\ncd cs-suite/\nsudo python setup.py\n'''\n\n\nHere is a quick video on how you can install the same:", 
             "title": "Installation"
@@ -34,6 +29,11 @@
             "location": "/usage/", 
             "text": "", 
             "title": "Usage"
+        }, 
+        {
+            "location": "/authors/", 
+            "text": "authors.md", 
+            "title": "Authors"
         }
     ]
 }
