@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+CS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does system audits as well. CS Suite leverages current open source tools capabilities and has other missing checks added into one tool to rule them all.
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+The major features include:
 
-## Commands
+* Simple installation with support of python virtual environment and docker containers
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* Initiate all tools/audit checks in one go
+* AWS Infra Audit:
+	* Easify your “open source setup” pain.
+	* Compilation of all audit checks in one place
+	* Centralized portable reports
+	* Audits individual systems
+* AWS Instance Audit:
+	* IP based auditing
+	* Region independent Audit (Public IP)
+	* Supports both public and private IPs for Default region
+	* Automatic Report Generation and Fetching
+	* Portable HTML report

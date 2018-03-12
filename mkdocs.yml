@@ -1,1 +1,38 @@
-site_name: CS_Suite - Documentation
+site_name: 'CS-Suite Documentation'
+theme: material
+pages:
+- 'Overview': 'index.md'
+- 'Installation': 'installation.md'
+- Usage: 'Usage.md'
+- Credits: 'credits.md'
+
+
+# Options
+extra:
+  feature:
+    tabs: true
+  palette:
+    primary: indigo
+    accent: indigo
+  social:
+    - type: github-alt
+      link: https://github.com/SecurityFTW/cs-suite
+    - type: twitter
+      link: https://twitter.com/cs-suite
+    - type: facebook
+      link: https://www.facebook.com/cs-suite
+
+
+
+# Project information
+site_name: 'CS-Suite Documentation'
+site_description: All about 'CS-Suite'.
+site_author: Shubham Mittal
+site_url: https://securityftw.github.io/
+
+# Repository
+repo_name: securityFTW/cs-suite
+repo_url: https://github.com/SecurityFTW/cs-suite
+
+# Copyright
+copyright: 'Copyright &copy; 2017 - 2018'
