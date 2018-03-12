@@ -28,7 +28,7 @@ extra:
 site_name: 'CS-Suite Documentation'
 site_description: All about 'CS-Suite'.
 site_author: Shubham Mittal
-site_url: https://securityftw.github.io/
+site_url: /
 
 # Repository
 repo_name: securityFTW/cs-suite
