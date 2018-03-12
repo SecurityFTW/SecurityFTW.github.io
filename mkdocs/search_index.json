@@ -2,28 +2,38 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to CS-Suite Documentation\n\n\nCS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does system audits as well. CS Suite leverages current open source tools capabilities and has other missing checks added into one tool to rule them all.\n\n\nThe major features include:\n\n\n\n\n\n\nSimple installation with support of python virtual environment and docker containers\n\n\n\n\n\n\nInitiate all tools/audit checks in one go\n\n\n\n\n\n\nAWS Infra Audit:\n\n\n\n\nEasify your \u201copen source setup\u201d pain.\n\n\nCompilation of all audit checks in one place\n\n\nCentralized portable reports\n\n\nAudits individual systems\n\n\n\n\n\n\n\n\nAWS Instance Audit:\n\n\n\n\nIP based auditing\n\n\nRegion independent Audit (Public IP)\n\n\nSupports both public and private IPs for Default region\n\n\nAutomatic Report Generation and Fetching\n\n\nPortable HTML report", 
+            "text": "CS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does system audits as well. CS Suite leverages current open source tools capabilities and has other missing checks added into one tool to rule them all.\n\n\nThe major features include:\n\n\n\n\n\n\nSimple installation with support of python virtual environment and docker containers\n\n\n\n\n\n\nInitiate all tools/audit checks in one go\n\n\n\n\nAWS Infra Audit:\n\n\nEasify your \u201copen source setup\u201d pain.\n\n\nCompilation of all audit checks in one place\n\n\nCentralized portable reports\n\n\nAudits individual systems\n\n\n\n\n\n\nAWS Instance Audit:\n\n\nIP based auditing\n\n\nRegion independent Audit (Public IP)\n\n\nSupports both public and private IPs for Default region\n\n\nAutomatic Report Generation and Fetching\n\n\nPortable HTML report", 
             "title": "Overview"
         }, 
         {
-            "location": "/#welcome-to-cs-suite-documentation", 
-            "text": "CS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does system audits as well. CS Suite leverages current open source tools capabilities and has other missing checks added into one tool to rule them all.  The major features include:    Simple installation with support of python virtual environment and docker containers    Initiate all tools/audit checks in one go    AWS Infra Audit:   Easify your \u201copen source setup\u201d pain.  Compilation of all audit checks in one place  Centralized portable reports  Audits individual systems     AWS Instance Audit:   IP based auditing  Region independent Audit (Public IP)  Supports both public and private IPs for Default region  Automatic Report Generation and Fetching  Portable HTML report", 
-            "title": "Welcome to CS-Suite Documentation"
-        }, 
-        {
             "location": "/installation/", 
-            "text": "Tool requires few python libraries, and python 2.7 on your box. Dont worry about libraries, we have got it sorted. \n\n\nYou can either download the tool from github as a zip file or use the following command to clone it into your box. \n\n\ngit clone https://github.com/SecurityFTW/cs-suite.git\ncd cs-suite/\nsudo python setup.py\n\n\n\n\nNote - Generate a set of ReadOnly AWS keys which the tool will ask to finish the installation process.\n\n\nHere is a quick video on how you can install the same:", 
+            "text": "Tool requires few python libraries, and python 2.7 on your box. Dont worry about libraries, we have got it sorted.\n\n\nYou can either download the tool from github as a zip file or use the following command to clone it into your box.\n\n\ngit clone https://github.com/SecurityFTW/cs-suite.git\ncd cs-suite/\nsudo python setup.py\n\n\n\n\nNote - Generate a set of ReadOnly AWS keys which the tool will ask to finish the installation process.\n\n\nHere is a quick video on how you can install the same:", 
             "title": "Installation"
         }, 
         {
-            "location": "/usage/", 
-            "text": "python cs.py\n\n\n\n\nInstallation and running CS Suite:\n\n\n\nThis is how you can audit a linux instance:\n\n\n\nThis is how you can audit a windows instance:", 
+            "location": "/Usage/", 
+            "text": "python cs.py\n\n\nInstallation and running CS Suite: \n\n\n\nThis is how you can audit a linux instance: \n\n\n\nThis is how you can audit a windows instance:", 
             "title": "Usage"
         }, 
         {
             "location": "/credits/", 
-            "text": "We would like to give thanks to below tools and their authors to do the awesome work. Without you guys, it would have took us longer to craft this utility. \n\n\nScout2 - \nhttps://github.com/nccgroup/Scout2\n\nProwler - \nhttps://github.com/Alfresco/prowler\n\nLynis - \nhttps://github.com/CISOfy/lynis\n\nAlanrenouf - \nhttps://github.com/alanrenouf/Windows-Workstation-and-Server-Audit\n\n\nTeam:\n\n1. Jayesh Singh Chuahan\n\n2. Shivankar Madaan\n\n\nTesters:\n\n1. \n\n\nMentors:", 
+            "text": "We would like to give thanks to below tools and their authors to do the awesome work. Without you guys, it would have took us longer to craft this utility.\n\n\nScout2 - \nhttps://github.com/nccgroup/Scout2\n\nProwler - \nhttps://github.com/Alfresco/prowler\n\nLynis - \nhttps://github.com/CISOfy/lynis\n\nAlanrenouf - \nhttps://github.com/alanrenouf/Windows-Workstation-and-Server-Audit\n\n\nTeam:\n\n\n\n\nJayesh Singh Chuahan\n\n\nShivankar Madaan\n\n\n\n\nTesters:\n\n\n1.\n\n\nMentors:", 
             "title": "Credits"
+        }, 
+        {
+            "location": "/credits/#team", 
+            "text": "Jayesh Singh Chuahan  Shivankar Madaan", 
+            "title": "Team:"
+        }, 
+        {
+            "location": "/credits/#testers", 
+            "text": "1.", 
+            "title": "Testers:"
+        }, 
+        {
+            "location": "/credits/#mentors", 
+            "text": "", 
+            "title": "Mentors:"
         }
     ]
 }
